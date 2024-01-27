@@ -1,0 +1,6 @@
+﻿  Workshop 1.c
+D:\Seneca\SEM 2\SFT 221\Workshop 1\Workshop 1\Workshop 1.c(16,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Seneca\SEM 2\SFT 221\Workshop 1\Workshop 1\Workshop 1.c(35,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Seneca\SEM 2\SFT 221\Workshop 1\Workshop 1\Workshop 1.c(36,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Seneca\SEM 2\SFT 221\Workshop 1\Workshop 1\Workshop 1.c(40,13): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  Workshop 1.vcxproj -> D:\Seneca\SEM 2\SFT 221\Workshop 1\x64\Debug\Workshop 1.exe

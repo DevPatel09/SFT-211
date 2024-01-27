@@ -1,0 +1,11 @@
+﻿  log4c.c
+  main.c
+  stringhelp.c
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(15,3): warning C4018: '<=': signed/unsigned mismatch
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(29,3): warning C4018: '<=': signed/unsigned mismatch
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(76,3): warning C4018: '<=': signed/unsigned mismatch
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(95,4): warning C4018: '<=': signed/unsigned mismatch
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(104,3): warning C4018: '<=': signed/unsigned mismatch
+D:\Seneca\SEM 2\SFT 221\Workshop 6\Workshop 6\stringhelp.c(146,3): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Workshop 6.vcxproj -> D:\Seneca\SEM 2\SFT 221\Workshop 6\Debug\Workshop 6.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+  stringhelp.c
+D:\Seneca\SEM 2\SFT 221\Workshop 5\Workshop 5\Workshop 5\stringhelp.c(85,3): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

@@ -1,0 +1,18 @@
+Name : Dev Kshitij Patel
+Student ID : 142979228
+Email ID : dkpatel59@myseneca.ca
+Section : ZCC
+
+REFLECTION:
+
+Ans) I have used Unit Testing to test the getCustomerInfo function which gives the detailed
+information regarding the customers. This testing helps to find the bugs easily, because we 
+testing only the small part of the whole code, which helps our mind to stress less to find
+the bugs and solve them. For the functions that collect client information, I created unit 
+tests. Several factors in that test case made blank lines impossible to enter. 
+A notification stating "NOT A PROPER INPUT" is displayed whenever the user enters a 
+blank line. For the numerous test cases and scenarios, manual testing was also 
+done. Combining automated and human testing methods is essential to thoroughly 
+test the application. Automated tests ensure that the functionality is maintained 
+while the code changes, while human testing or unit testing can provide insights into the user experience 
+and ensure that the software conforms to the necessary interactive behavior.
