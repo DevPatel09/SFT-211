@@ -1,0 +1,32 @@
+Difference between Testing and Debugging:
+
+Testing:
+a) Testing is the process of running the software and determining that the 
+results are what you expect them to be and, therefore, correct.
+
+Debugging:
+a)Process to i)locate the source of the bug
+              ii) Determine how to fix the bug
+              iii) Implement the solution.
+
+--Testing and Debugging are the seperate tasks.
+
+--the amount of bugs discovered is proportional to the amount of time
+ spent debugging.
+
+--All software has bugs in it.
+
+--First bug was discovered by Grace Hopper, 70 years ago and was the developer
+of COBOL Language.
+
+FAMOUS BUGS IN SOFTWARE:
+a) Therac-25
+   -> It was the medical instrument that delivers radiation to the cancer patients.
+      
+
+b) Ariane 5 Disaster:
+
+
+c) Mars Climate Orbiter:
+
+
