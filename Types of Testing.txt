@@ -1,0 +1,71 @@
+TYPES OF TESTING:
+
+a) Unit Testing:
+->basic type of testing.
+->Breaks down the code into smaller parts usually functions and then test them
+->Purpose: it is easier to find bugs in small piece of code rather than the whole
+           big code.
+->If each small parts are tested properly and are bug-free then integrate it.
+->Unit tests normally test functions by passing them a known piece of data and 
+  checking to see that the result is what is expected.
+->Done by automated tools.
+
+b) Black Box Testing:
+->Black box testing is normally the first approach to designing unit tests.
+->We dont know the code.
+->Treats every functional unit as a black box.
+->Black box testing relies entirely on knowing that a certain input should 
+  produce a certain output.
+
+c) White Box Testing:
+->opposite of black box testing.
+->we know the internal structure of the code.
+->If we simply rely on black box testing there, is no guarantee that we would 
+ have tested every single path through the code.
+->Gives confidence about the testing of the code.
+
+d) Integration Testing:
+-> While unit testing tests the low level of the code, whereas this test makes sure
+when combined should work properly.
+->doesnot looks at the indivual parts but looks at the groups of functions to ensure
+that it works properly.
+->A unit testing framework can be used to carry out integration testing or it can
+ be carried out in other ways.
+
+e) End to End Testing​:
+->Test from start to the end.
+->This type of testing aims to identify and address issues that may arise when 
+different components or modules of an application interact with each other, 
+simulating how users would use the software in a production environment.
+->replicate the user behavior and make sure all the user would perform work as expected.
+
+f) Load Testing:
+->Load testing is often combined with stress testing which tries to take it beyond
+ the normal operating requirements to see when it will actually break.
+->If stress testing reveals that your software will not break until well beyond 
+your expected usage of it, then you are assured your software is in good shape.
+->Checks whether the software functions correctly under high loads.
+
+g) Security testing:
+->Checks the software if it meets the security requiremets.
+->might check that web page can only be reached after signing on to the website.
+-> It might involve checking the level of user access to make sure that users 
+can only access the information they are allowed to. 
+->It could also involve attempts to break into the system and either steal or 
+alter information stored within it.
+
+h) Acceptance Testing​:
+-> verifies that the application meets all the business requiements.
+->After application is finished, it is checked using different examples of how user
+  would acutally use the system.
+->If all of the acceptance tests are met, then it indicates that the customer 
+requirements have been met.
+
+i) Regression Testing:
+->Regression testing means we perform our existing tests after every change 
+to the code. The goal of regression testing is to make sure that any changes 
+we made to the code do not break the existing code.
+->The goal of regression testing is to make sure that the code checked into 
+the shared repository is free of bugs. This prevents other developers building 
+upon code which has bugs in it.
+
